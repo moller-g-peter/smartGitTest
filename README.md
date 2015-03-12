@@ -5,11 +5,3 @@ just to learn merging in smartgit
 5
 6
 7
-
-
-
-
-
-
-
-## ASUS ##
