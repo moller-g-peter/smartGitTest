@@ -8,8 +8,20 @@ just to learn merging in smartgit
 
 
 
+## MAC ##
+
+hubbabubba
+
+
+
 
 
 
 
 ## ASUS ##
+trying again as ## ASUS2 ## on line 15
+
+
+
+
+
